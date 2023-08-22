@@ -4,3 +4,5 @@ Select options of desired pizza and sides
 place order, selecting delivery or take out
 wait an appropriate ammount of time and complete the order
 Should probably pay somewhere in there
+Eat the delicious food.
+Refrigerate
